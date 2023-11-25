@@ -1,0 +1,12 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333333; /* Dark gray text */
+    margin: 0;
+    padding: 0;
+    /* Background image */
+    background-image: url(C:\Users\Prithivraj\Desktop\New project\static\WhatsApp Image 2023-11-25 at 16.43.38_cfc1c6ae.jpg); /* Replace 'path/to/your/image.jpg' with your image file path */
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment: fixed; /* Fixed background position */
+}
