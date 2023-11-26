@@ -1,12 +1,19 @@
-/* Body styles */
 body {
+    background-color: #f5f5f5;
     font-family: Arial, sans-serif;
-    color: #333333; /* Dark gray text */
-    margin: 0;
-    padding: 0;
-    /* Background image */
-    background-image: url(C:\Users\Prithivraj\Desktop\New project\static\WhatsApp Image 2023-11-25 at 16.43.38_cfc1c6ae.jpg); /* Replace 'path/to/your/image.jpg' with your image file path */
-    background-size: cover; /* Cover the entire background */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-attachment: fixed; /* Fixed background position */
+    color: #333;
 }
+
+h1 {
+    color: #009688;
+}
+
+/* Example styling for the form */
+form {
+    border: 2px solid #009688;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* Add more styles based on your design preferences */
